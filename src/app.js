@@ -2,7 +2,6 @@ import express from "express";
 // aN1VkaIEGrOC27bA db pass
 import cors from "cors";
 import cookieParser from "cookie-parser";
-
 const app = express();
 app.use(cookieParser());
 
